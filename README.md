@@ -7,7 +7,7 @@ This project aims to detect deep fakes by using machine learning.
 -StyleGAN folder: https://drive.google.com/drive/folders/1yQu6NQP3UKx9IW485pumhKt72JGRePLV?usp=sharing
  The generated fake images are contained in the results file.
   
--StyleGAN2 folded used to generating fake imagesr: https://drive.google.com/drive/folders/1F1OliE13xqKbQLW3JIaQ78O80fBic4OT?usp=sharing
+-StyleGAN2 folder: https://drive.google.com/drive/folders/1F1OliE13xqKbQLW3JIaQ78O80fBic4OT?usp=sharing
  The generated fake images are contained in the results file.
   
 -generate_fake_images.ipynb is used to generate fake images by using StyleGAN and StyleGAN2.
